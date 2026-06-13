@@ -1,6 +1,9 @@
 {
   "name": "@hono/otel",
   "version": "1.1.2",
+  "bugs": {
+    "url": "https://github.com/honojs/middleware/issues"
+  },
   "description": "OpenTelemetry middleware for Hono",
   "type": "module",
   "main": "./dist/index.cjs",
